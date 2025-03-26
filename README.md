@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Andromofid 👋</h1>
-<h3 align="center">Full-Stack Web Developer | PHP, JS, Python, React, Laravel</h3>
+<h3 align="center">Full-Stack Web Developer | PHP, JS, React, Laravel</h3>
 
 ---
 
